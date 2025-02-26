@@ -9,10 +9,10 @@ This project was created during the Hack&Roll 2025 hackathon hosted by NUS Hacke
 
 ## **Inspiration**
 A random tweet by a random japanese guy. Peak humour. Captions: "You... are such an interesting woman. Come to me (My company)."
-![tweet](./images/tweet.jpg)
+![tweet](delulu_solulu/images/tweet.jpg)
 
 ## **Demo**  
-![demo](./images/demo.mp4)
+![demo](delulu_solulu/images/demo.mp4)
 
 ## **Features**  
 - 💌 Translates speech into poetic and romantic captions 
