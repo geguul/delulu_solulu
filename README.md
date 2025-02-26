@@ -12,7 +12,7 @@ A random tweet by a random japanese guy. Peak humour. Captions: "You... are such
 ![tweet](delulu_solulu/images/tweet.jpg)
 
 ## **Demo**  
-![demo](delulu_solulu/images/demo.mp4)
+[demo](delulu_solulu/images/demo.mp4)
 
 ## **Features**  
 - 💌 Translates speech into poetic and romantic captions 
