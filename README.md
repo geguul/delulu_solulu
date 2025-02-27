@@ -21,7 +21,9 @@ A random tweet by a random japanese guy. Peak humour. Captions: "You... are such
 
 ## **Tech Stack**  
 - **Python** (Core logic)  
-- **PyQt5** (GUI)  
+- **PyQt5** (GUI framework)
+- **Gemini LLM API** (Translation model)
+- **Virtual Audio Cable** (Audio processing)
 
 ## **Team & Credits**  
 - **[@geguul](https://github.com/geguul)** - Creator, UI design, GUI development, Speech translator
