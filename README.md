@@ -1,4 +1,4 @@
-# **Delulu Solulu** 💕  
+# **delulu solulu** 💕  
 *A romantic speech translator powered by PyQt5*  
 
 ## **Overview**  
